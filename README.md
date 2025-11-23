@@ -52,7 +52,7 @@ This bot interacts with the Raydium and Solana contracts for liquidity pool trac
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/raydium-trading-bots.git
+   git clone https://github.com/terauss/raydium-trading-bots.git
    cd raydium-trading-bots
    ```
 
