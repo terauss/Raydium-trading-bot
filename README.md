@@ -84,7 +84,7 @@ You can modify various parameters such as:
 
 For issues or feature requests, open an issue on GitHub or contact the maintainer. 📬
 
-**Telegram**: [@g0drlc](https://t.me/g0drlc)
+**Telegram**: [@g0drlc](https://t.me/terauss)
 
 ## Contributing 💡
 
